@@ -1,0 +1,1 @@
+[原文链接](https://medium.com/redmadrobot-mobile/the-chronos-library-making-easier-work-of-long-operations-69c7e2d16946#.qcmy1pued)
